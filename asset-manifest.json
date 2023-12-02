@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cbpl/static/css/main.f6c8b2a8.css",
+    "main.js": "/cbpl/static/js/main.6f5667c7.js",
+    "static/js/787.df461940.chunk.js": "/cbpl/static/js/787.df461940.chunk.js",
+    "static/media/students.jpg": "/cbpl/static/media/students.a43621b4f01f65da61ec.jpg",
+    "static/media/white.jpg": "/cbpl/static/media/white.6a40a8f6e6c1240529f2.jpg",
+    "static/media/pupil.jpg": "/cbpl/static/media/pupil.1ba6a0d4cbeb62619105.jpg",
+    "index.html": "/cbpl/index.html",
+    "main.f6c8b2a8.css.map": "/cbpl/static/css/main.f6c8b2a8.css.map",
+    "main.6f5667c7.js.map": "/cbpl/static/js/main.6f5667c7.js.map",
+    "787.df461940.chunk.js.map": "/cbpl/static/js/787.df461940.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6c8b2a8.css",
+    "static/js/main.6f5667c7.js"
+  ]
+}
